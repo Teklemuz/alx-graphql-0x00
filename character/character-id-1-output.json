@@ -1,0 +1,12 @@
+{
+    "data": {
+      "character": {
+        "id": "1",
+        "name": "Tekle",
+        "status": "Alive",
+        "species": "Human",
+        "type": "Student",
+        "gender": "Male"
+      }
+    }
+  }  

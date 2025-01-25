@@ -1,0 +1,12 @@
+{
+    "data": {
+      "character": {
+        "id": "2",
+        "name": "Sami",
+        "status": "Alive",
+        "species": "Human",
+        "type": "Student,"
+        "gender": "Male"
+      }
+    }
+  } 

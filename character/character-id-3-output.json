@@ -1,0 +1,12 @@
+{
+    "data": {
+      "character": {
+        "id": "3",
+        "name": "Birkey",
+        "status": "Alive",
+        "species": "Human",
+        "type": "Student",
+        "gender": "Female"
+      }
+    }
+  } 
